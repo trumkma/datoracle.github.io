@@ -1,7 +1,6 @@
 ---
 title: Chạy code Python3 trực tiếp trên Sublime3 macOS
 tags: [til, macos]
-classes: wide
 ---
 
 Đối với macOS, mặc định Sublime cho phép mình build code trên python2 khi ta chỉ cần bấm `cmd (⌘) + b`. Khi cần build trên python3, mình cần cấu hình thêm một chút.
