@@ -155,4 +155,5 @@ EDIT CONFIGURATION SET PROTECTION MODE AS MAXAVAILABILITY;
 dgmgrl -silent / "show database 'testdr'"
 dgmgrl -silent / "show database 'testdb'"
 ```
-# Mọi người cùng chia sẻ kinh nghiệm DG Broker bên dưới phần bình luận nhé!
+
+Mọi người cùng chia sẻ kinh nghiệm DG Broker bên dưới phần bình luận nhé!
