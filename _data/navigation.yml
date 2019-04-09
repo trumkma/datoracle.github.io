@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Oracle"
+    url: /categories/#oracle
+  - title: "#TIL"
+    url: /categories/#today-i-learned
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
