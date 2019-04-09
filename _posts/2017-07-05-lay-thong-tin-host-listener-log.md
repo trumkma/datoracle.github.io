@@ -4,7 +4,6 @@ tags: [oracle, regex, linux, til]
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "file-alt"
-categories: [Today I Learned, Oracle, Linux]
 ---
 
 Hôm nay mình lại chia sẻ về chủ đề lấy thông tin trong một file log rất rất lớn, lần trước mình có chia sẻ về việc cắt nội dung log theo khoảng thời gian, các bạn có thể xem [tại đây](https://datoracle.github.io/2017-06-17-lay-du-lieu-giua-hai-khoang-thoi-gian-file-log/).

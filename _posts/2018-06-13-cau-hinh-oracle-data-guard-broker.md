@@ -4,7 +4,6 @@ tags: [oracle, data guard, broker]
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "file-alt"
-categories: [Oracle]
 ---
 
 # MỤC TIÊU 

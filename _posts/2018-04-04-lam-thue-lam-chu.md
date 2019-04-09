@@ -4,7 +4,6 @@ header:
   image: /img/work.jpg
 author_profile: false
 classes: wide
-categories: [Today I Learned]
 ---
 
 Hôm trước mình mới đọc được một bài viết của anh TháiDN nói về _Làm thuê và Làm chủ_. Xin chia sẻ lại để anh em cùng cho ý kiến.

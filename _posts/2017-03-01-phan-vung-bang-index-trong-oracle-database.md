@@ -4,8 +4,6 @@ tags:
   - oracle
   - table partition
   - index partition
-categories:
-  - Oracle
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "file-alt"

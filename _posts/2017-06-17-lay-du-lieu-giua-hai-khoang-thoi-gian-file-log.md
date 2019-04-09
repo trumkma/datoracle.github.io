@@ -2,7 +2,6 @@
 title: Lấy dữ liệu giữa hai khoảng thời gian từ file log
 tags: [oracle, linux]
 classes: wide
-categories: [Today I Learned, Linux]
 ---
 
 Giả sử có file log rất rất rất dài như bên dưới:

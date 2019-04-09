@@ -5,7 +5,6 @@ tags:
 header:
   image: /img/leader.jpg
 classes: wide
-categories: [Today I Learned]
 ---
 
 Ngày hôm nay, ngồi nói chuyện với sếp, mình học được 3 tiêu chí quan trọng để đánh giá một người leader tốt đó là:

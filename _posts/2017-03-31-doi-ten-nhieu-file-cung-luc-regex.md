@@ -4,7 +4,6 @@ header:
   images: /img/xkcd-regex.jpg
 tags: [til, linux]
 classes: wide
-categories: [Today I Learned, Linux]
 ---
 
 Giả sử có một folder chứa 3 file có tên na ná nhau nhưng khác phần đuôi và khác luôn kiểu file như sau:

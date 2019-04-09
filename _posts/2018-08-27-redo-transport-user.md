@@ -4,7 +4,6 @@ tags: [oracle, data guard]
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "file-alt"
-categories: [Oracle]
 ---
 
 > As you know when we create Data Guard Configuration, we must copy password file. Because SYS user is default redo transport user on Data Guard configurations. 

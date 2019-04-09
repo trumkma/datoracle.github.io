@@ -2,7 +2,6 @@
 title: Grep one line before the match plus the match
 tags: [til, linux]
 classes: wide
-categories: [Today I Learned, Linux]
 ---
 
 Mình có một log file của database Oracle có dạng sau:

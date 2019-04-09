@@ -2,7 +2,6 @@
 title: Monitor index creation or rebuild for huge indexes
 tags: [oracle, script, index]
 classes: wide
-categories: [Today I Learned, Oracle]
 ---
 
 The following query can be used to monitor the progress of Index creation or Index rebuild for huge indexes.

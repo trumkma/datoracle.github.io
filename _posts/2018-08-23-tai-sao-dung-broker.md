@@ -1,7 +1,6 @@
 ---
 title: Tại sao lại là Broker?
 tags: [oracle, data guard, broker]
-categories: [Oracle]
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "file-alt"

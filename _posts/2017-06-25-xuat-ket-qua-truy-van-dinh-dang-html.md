@@ -2,7 +2,6 @@
 title: Xuất kết quả truy vấn định dạng html bằng SQLPlus
 tags: [oracle, sqlplus, til]
 classes: wide
-categories: [Today I Learned, Linux]
 ---
 
 Khi không có các công cụ hỗ trợ như Toad, SQL Navigator,... thì việc truy vấn nhiều thông tin trên các bảng qua SQLPlus quả thực là hết sức vất vả.
