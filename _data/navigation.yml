@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Oracle"
-    url: /categories/#oracle
+    url: /tags/#oracle
   - title: "#TIL"
-    url: /categories/#today-i-learned
+    url: /tags/#today-i-learned
   - title: "Tags"
     url: /tags/
   - title: "About"
