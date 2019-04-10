@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Dương Đức Đạt"
   avatar           : "/img/ava.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Database Administrator."
+  bio              : "Database Administrator."
   location         : "Hanoi, VN"
   email            : "ducdat2411@live.com"
   links:
