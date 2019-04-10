@@ -1,7 +1,7 @@
 ---
 title: About DatOracle
-header:
-  image: /img/oracle-dba.png
+<!-- header:
+  image: /img/oracle-dba.png -->
 permalink: /about/
 ---
 
