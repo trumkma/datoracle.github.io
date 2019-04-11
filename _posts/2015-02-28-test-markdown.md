@@ -1,9 +1,8 @@
 ---
 title: Test markdown
-tags: [code, algothrym]
-<!-- toc: true
+toc: true
 toc_label: "Table of Contents"
-toc_icon: "file-alt" -->
+toc_icon: "file-alt"
 classes: wide
 ---
 

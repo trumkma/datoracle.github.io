@@ -1,8 +1,9 @@
 ---
 title: Chia sẻ thuật toán hay
-toc: true
+tags: [code, algothrym]
+<!-- toc: true
 toc_label: "Table of Contents"
-toc_icon: "file-alt"
+toc_icon: "file-alt" -->
 classes: wide
 ---
 
