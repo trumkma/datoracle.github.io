@@ -1,5 +1,6 @@
 ---
 title: Test markdown
+tags: [code, algothrym]
 <!-- toc: true
 toc_label: "Table of Contents"
 toc_icon: "file-alt" -->
