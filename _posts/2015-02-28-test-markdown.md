@@ -1,8 +1,8 @@
 ---
 title: Test markdown
-toc: true
+<!-- toc: true
 toc_label: "Table of Contents"
-toc_icon: "file-alt"
+toc_icon: "file-alt" -->
 classes: wide
 ---
 
