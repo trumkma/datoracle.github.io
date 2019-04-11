@@ -5,8 +5,11 @@ classes: wide
 ---
 
 > Ngồi đọc tài liệu linh tinh thế nào lại va vào mấy blog thuật toán, code củng. Đọc được bài này khá hay share lại cho ae bẹn bà.
+
 **Đề bài:** Tìm số lớn hơn trong 2 số đưa vào. Không được dùng `if/else` hoặc các phép so sánh `= < >`.
+
 > Me: _Méo gì mà khoai thế, không so sánh thì làm thế quái nào được =]]_
+
 **Dưới đây là đáp án, rất hay và logic:**
 
 1. Nếu `a < b: return b`, ngược lại `return a`
