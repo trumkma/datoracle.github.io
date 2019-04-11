@@ -18,8 +18,11 @@ classes: wide
 1. Nếu `a < b: return b`, ngược lại `return a`
 2. Nếu `a – b < 0: return b`, ngược lại `return a`
 3. Ta nhẩm:
+
 `b = a – (a – b) = a – 1*(a-b) = a – k*(a-b)` với `k = 1`
+
 `a = a – 0 = a – 0*(a-b) = a – k*(a-b)` với `k = 0`
+
 4. Kết hợp 2 và 3 ta có:
 5. `return a – k*(a-b)`. Nếu `a – b < 0: k = 1`, ngược lại `k = 0`
 6. Gọi `c = a-b`. Ta không thể so sánh `c` với `0`, tuy nhiên ta biết rằng `c < 0` nếu `c` là số âm. Số âm có đặc tính gì nhỉ: bit ngoài cùng bên trái của nó sẽ bằng `1`. Bit ngoài cùng bên trái của số dương sẽ bằng `0`. Ồ, đúng là số `k` chúng ta đang tìm còn gì.
