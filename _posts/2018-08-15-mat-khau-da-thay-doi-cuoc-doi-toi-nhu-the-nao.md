@@ -3,7 +3,6 @@ title: Mật khẩu đã thay đổi cuộc đời tôi như thế nào?
 tags: [internet]
 ---
 
-
 > "Sao cô ấy có thể làm như vậy với tôi" - một giọng nói vang lên trong đầu tôi, hằng ngày, hằng giờ.
 
 Quay trở lại năm 2011, khi mọi thứ đang trên đà phát triển, các biểu tượng iOS đều có ý nghĩa, mọi người đều sử dụng chất khử mùi, còn tôi thì bị mắc kẹt giữa trạng thái trầm cảm khá tồi tệ do ảnh hưởng của vụ ly hôn.
