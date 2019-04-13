@@ -8,6 +8,8 @@ toc_label: "Table of Contents"
 toc_icon: "file-alt"
 ---
 
+_Mình đọc được một bài viết khá hay về lộ trình trở thành một Data Engineer trên Github, chia sẻ lại cho mọi người có ý định tìm hiểu Data Engineer tại đây:_
+
 # Data Engineering Roadmap
 
 Below you can find a chart demonstrating the paths that you can take and the milestones that you would want to achieve in order to become a data engineer. We spoke to senior data engineers and data engineering managers from top tech companies in the Silicon Valley, and consolidated learnings from these conversations and data engineering Meetups in the Bay Area. We hope this can serve as a guide to everyone interested in breaking into data engineering, especially people who do not live in close proximity to any tech hubs and don't have a strong personal network in data engineering.
