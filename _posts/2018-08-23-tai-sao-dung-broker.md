@@ -24,7 +24,7 @@ Bạn có đang cấu hình sử dụng Oracle Data Guard Broker? Một số ng�
 
 ### Cấu hình Broker như thế nào?
 
-[Note cấu hình nhanh Broker cho hệ thống Oracle RAC được cấu hình sẵn Dataguard.](https://datoracle.github.io/2018-06-13-cau-hinh-oracle-data-guard-broker/)
+[Note cấu hình nhanh Broker cho hệ thống Oracle RAC được cấu hình sẵn Dataguard.](https://datoracle.github.io/cau-hinh-oracle-data-guard-broker/)
 
 Trên đây là một số lợi ích khi sử dụng Broker, chia sẻ ở bên dưới phần bình luận nếu bạn thấy nó có gì hay, hoặc không hay. Thực ra chính bản thân mình và những người bạn DBA của mình cũng từng gặp những rắc rối to khi sử dụng Broker, nhưng hơn hết Oracle vẫn ngày càng hoàn thiện và khắc phục các bug của nó.
 
